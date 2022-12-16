@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: ab80c87fba58edb4bb4a48f712053645
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - teamCPrefab: {fileID: 3523419540751109013, guid: 198f2662a730f2f479ba5d17eaa109b7,
+      type: 3}
+  - teamIPrefab: {fileID: 7647752699762204091, guid: c3126ba7587479746a89aae83c41967d,
+      type: 3}
+  - teamateCPrefab: {fileID: 8339311766687731579, guid: 4a52716a4c4fe384f80290399e67b079,
+      type: 3}
+  - teamateIPrefab: {fileID: 5371603768588364833, guid: 4315f4a8f229cc840af16eb5e8108ea4,
+      type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
